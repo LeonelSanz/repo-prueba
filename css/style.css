@@ -34,7 +34,6 @@ input:focus{
     width: 100px;
     height: 100px;
     background-color: burlywood;
-    /* transform: rotate(75deg); */
     transition: width 2s, height 2s;
 }
 .rotar:hover{
